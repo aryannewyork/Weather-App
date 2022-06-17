@@ -2,9 +2,7 @@
 # Weather App
 
 Just type the name of a city and the weather coditions like temperature will be displayed on the screen. The App uses Open Weather API to get the realtime weather data.
-```
-(https://openweathermap.org/api)
-```
+[Open Weather API](https://openweathermap.org/api)
 
 
 
